@@ -1,0 +1,5 @@
+export const USER_ENDPOINT = '/5b9751e5300000332a0bd52d';
+
+export const TASKS_ENDPOINT = '/5b97533d30000070000bd533';
+
+export const POSTS_ENDPOINT = '/5b9755c43000006a000bd53f';
